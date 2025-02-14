@@ -19,10 +19,10 @@ This project demonstrates polynomial operations using a singly linked list in C.
 ### Compilation & Execution
 ```sh
 # Compile the program
-gcc polynomial_operations.c -o polynomial_operations
+gcc Polynomial-operations.c -o Polynomial-Operations
 
 # Run the executable
-./polynomial_operations
+./Polynomial_Operations
 ```
 
 ## 📂 Project Structure
